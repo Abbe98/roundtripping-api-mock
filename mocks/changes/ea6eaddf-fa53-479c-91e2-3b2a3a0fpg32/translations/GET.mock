@@ -1,0 +1,75 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+[
+  {
+    "mediainfo_id": "M9876675",
+    "local_id": "ds323",
+    "translations": [
+      {
+        "lang": "sv",
+        "value": "Hej, mitt namn är Albin."
+      }
+      {
+        "lang": "nb",
+        "value": "Hei, mitt navn er Albin."
+      }
+    ]
+  },
+  {
+    "mediainfo_id": "M9876675",
+    "local_id": "ds323",
+    "translations": [
+      {
+        "lang": "sv",
+        "value": "Hej, mitt namn är Albin."
+      }
+      {
+        "lang": "nb",
+        "value": "Hei, mitt navn er Albin."
+      }
+    ]
+  },
+  {
+    "mediainfo_id": "M9876675",
+    "local_id": "ds323",
+    "translations": [
+      {
+        "lang": "sv",
+        "value": "Hej, mitt namn är Albin."
+      }
+      {
+        "lang": "nb",
+        "value": "Hei, mitt navn er Albin."
+      }
+    ]
+  },
+  {
+    "mediainfo_id": "M9876675",
+    "local_id": "ds323",
+    "translations": [
+      {
+        "lang": "sv",
+        "value": "Hej, mitt namn är Albin."
+      }
+      {
+        "lang": "nb",
+        "value": "Hei, mitt navn er Albin."
+      }
+    ]
+  },
+  {
+    "mediainfo_id": "M9876675",
+    "local_id": "ds323",
+    "translations": [
+      {
+        "lang": "sv",
+        "value": "Hej, mitt namn är Albin."
+      }
+      {
+        "lang": "nb",
+        "value": "Hei, mitt navn er Albin."
+      }
+    ]
+  }
+]

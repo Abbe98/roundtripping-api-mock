@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+[
+  {
+    "id": "ea6eaddf-fa53-479c-91e2-3b2a3a0fef32",
+    "name": "Musikverket"
+  },
+  {
+    "id": "ea6eaddf-fa53-479c-91e2-3b2a3a0fef31",
+    "name": "Nordiska museet"
+  },
+]
